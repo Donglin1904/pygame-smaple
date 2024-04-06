@@ -1,0 +1,17 @@
+In the game: Alien Fighting
+1, keys:
+¡®q¡¯ to exit. 
+¡®w¡¯ to move the ship up. ¡®s¡¯ to move the ship down. ¡®a¡¯ to move the ship left. ¡®d¡¯ to make the ship left.
+¡®space¡¯ to fire the bullet(can only go up). ¡®r¡¯ to fire the ¡®super bullet¡¯(after the score is over 1000)
+¡®f¡¯ to return 5 lives of the ship(after the score is over 500)
+2, ship
+The ship can move to avoid the aliens. The ship has 20 lives and if is hit by the aliens, it will lose its lives. As the score is higher, the ship will lose more lives.
+3, aliens
+The aliens will come form the top of the screen and the left. When the score is 0, there is only one alien from each direction. As the score is higher, the number of the aliens will add, and they¡¯ll get more lives that you need to hit them many times.
+4, score
+At first, you will get 30 points if you hit an alien. As the score is higher, you¡¯ll get more points too. It will write your highest score you have got on the top of the screen. It won¡¯t lose after you close the game.
+5, skills
+The first skill is to return the ship¡¯s lives. It can return 5 each time, and the score is over 500 and you can use it. Its cd is 15 seconds. 
+The second skill is a big bullet. It will fire to the left and kill every alien. You can save 3 bullet like this, and each bullet has a cd for 10 seconds.
+6, play
+Because I¡¯m studying how to use python, I¡¯m sorry that you cannot download it now.  You can copy the folder ¡®fight¡¯ on D drive, and put it into anther folder named ¡®python¡¯. It¡¯s important. Then you should open the terminal of the computer and write ¡®cd D:\python\fight¡¯, and then write¡¯ python D:\python\fight\main.py¡¯ to start the game. Click the button ¡®Play¡¯ and you can play the game. Welcome to give me some advice. Thanks.
