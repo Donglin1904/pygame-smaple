@@ -244,6 +244,7 @@ class MainFight:
 					self.super_bullet_cd=round(self.super_bullet_cd,-3)/1000
 					if self.super_bullet_cd >= self.set.super_bullet_cd:
 						self.set.super_bullet_number+=1
+						self.super_bullet_start=pygame.time.get_ticks()
 					else:
 						self.super_bullet_wait=float(self.set.super_bullet_cd-self.super_bullet_cd)
 				elif self.set.super_bullet_number == 3:
